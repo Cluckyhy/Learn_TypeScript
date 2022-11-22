@@ -1,4 +1,3 @@
-"use strict";
 function printCoord3(pt) {
 }
 printCoord3({

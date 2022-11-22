@@ -1,4 +1,3 @@
-"use strict";
 function printId(id) {
     console.log('Your ID is' + id);
     // console.log(id.toUpperCase());  报错
